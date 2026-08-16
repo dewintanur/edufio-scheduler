@@ -224,4 +224,5 @@ namun dari itu semua saya tetap melakukan pengecekan dan tes terhadap kode, dan 
 
 untuk yang lainnya saya rasa ai dan saya sudah saling mengerti, apalagi dengan saya yang mengetik dengan typo dia sudah sedikit terbiasa. saya akan berikan keseluruhan chat dengan AI nya. https://chatgpt.com/share/6a814909-a2c8-83ec-813a-ea788026bfd5 
 
-
+## Link setelah deploy 
+https://edufio-scheduler-nine.vercel.app/
